@@ -1,6 +1,6 @@
 # Toxic Data
 
-This repository accompanies the paper XYZ(link to paper).
+This repository accompanies the paper AustroTox: A Dataset for Target-Based Austrian German Offensive Language Detection.
 
 ## Clone the repository
 
