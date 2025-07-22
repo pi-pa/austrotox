@@ -1,4 +1,4 @@
-# Toxic Data
+# AustroTox
 
 This repository accompanies the paper AustroTox: A Dataset for Target-Based Austrian German Offensive Language Detection.
 
