@@ -1,0 +1,72 @@
+{
+    "toxicity": {
+        "accuracy": 0.8048245614035088,
+        "precision_binary": 0.8518518518518519,
+        "recall_binary": 0.625,
+        "f1_binary": 0.7210031347962382,
+        "micro_precision": 0.8048245614035088,
+        "micro_recall": 0.8048245614035088,
+        "micro_f1": 0.8048245614035088,
+        "macro_precision": 0.8184492904119072,
+        "macro_recall": 0.7757352941176471,
+        "macro_f1": 0.785459408882099,
+        "true_positives": 115,
+        "false_positives": 20,
+        "true_negatives": 252,
+        "false_negatives": 69,
+        "distinct_true_labels": [
+            0,
+            1
+        ],
+        "distinct_pred_labels": [
+            0,
+            1
+        ]
+    },
+    "vulgarity": {
+        "accuracy": 0.2782608695652174,
+        "precision_binary": 0.7373271889400922,
+        "recall_binary": 0.3088803088803089,
+        "f1_binary": 0.435374149659864,
+        "micro_precision": 0.2782608695652174,
+        "micro_recall": 0.2782608695652174,
+        "micro_f1": 0.2782608695652174,
+        "macro_precision": 0.3686635944700461,
+        "macro_recall": 0.15444015444015444,
+        "macro_f1": 0.217687074829932,
+        "true_positives": 160,
+        "false_positives": 57,
+        "true_negatives": 0,
+        "false_negatives": 358,
+        "distinct_true_labels": [
+            0,
+            1
+        ],
+        "distinct_pred_labels": [
+            0,
+            1
+        ]
+    },
+    "target": {
+        "accuracy": 0.23985239852398524,
+        "macro_precision": 0.2890144381669805,
+        "macro_recall": 0.24237472766884535,
+        "macro_f1": 0.2595870206489676,
+        "weighted_precision": 0.2700968026629419,
+        "weighted_recall": 0.23985239852398524,
+        "weighted_f1": 0.2502694053489208,
+        "micro_precision": 0.23985239852398524,
+        "micro_recall": 0.23985239852398524,
+        "micro_f1": 0.23985239852398524,
+        "distinct_true_labels": [
+            "GROUP",
+            "INDIV",
+            "O"
+        ],
+        "distinct_pred_labels": [
+            "GROUP",
+            "O",
+            "INDIV"
+        ]
+    }
+}

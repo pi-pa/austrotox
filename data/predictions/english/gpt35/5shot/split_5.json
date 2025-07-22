@@ -1,0 +1,6143 @@
+[
+    {
+        "Index": "c282565442851908",
+        "Comment": "thanks for confirming my previous report on your strawman arguments. That's all I could ask for. If you want to replace the image on the page, it is to be discussed first. Hence original image will be retained until editors agree on a different image. Your snapshot you are forcing upon the page has nothing to offer, which you have proved by never be able to say anything positive about it. All you can do is throw trash on the original image to get your point across - aka strawman. And you continue doing so now by attempting attacks against me. Once again, that's all I could ask for. Thanks for proving me right on this one.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "trash"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "strawman"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "attacks"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "e1401043e5aa42b5",
+        "Comment": "STICK IT \n\nBoth of you can stick it ok. Blocked or whatever. when I come back I WILL finish editing this article and I WILL change it back to the way it is right now. I am TRYING to add refs to it to make you all happy, but no, now you had to have me blocked so kiss off",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Both of you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "kiss off"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "STICK IT"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "stick it"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "STICK IT"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "kiss off"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "be47288e0574232f",
+        "Comment": "Arrogant user torin \n\nYou should return money you steal.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "user torin"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Arrogant"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "torin"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "steal"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "c378ec64f0e22a5a",
+        "Comment": "I too like the idea of uniforms on the pages, but the licencing is important.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "0a89c991ab8364f7",
+        "Comment": "You are clearly not very smart and not here to build an encyclopedia.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "You"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "not very smart"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ed5473d665225bba",
+        "Comment": "fine then \n\nI hate you",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hate"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "aaad6f67e74ddf6a",
+        "Comment": "To disrespectful and ignorant Iryna Harpy \n\nNo such thing as disruptive editing. It's backed up with facts and data. \n\nI should know better given as I'm Colombian myself, unlike yourself.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Iryna Harpy"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Iryna Harpy"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "disrespectful"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ignorant"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "e6509874aad190d4",
+        "Comment": "Yankees rule, boston sucks \n\n'nuff said.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "boston"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "sucks "
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "boston"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sucks"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ac08f8e2e279fde1",
+        "Comment": "\"\n\nArrow\nThere is an active discussion on the talk page about putting links to characters that may or may not directly represent the comic book character they share a name with. I would go there and voice my opinion regarding it. This is especially true for characters whose name is not directly the same, as with Laurel.   (Contact me) \"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "55b80534364702d2",
+        "Comment": "I'M PISSED OFF! \n\nWHY SHOULD I STOP MAKING PERSONAL ATTACKS TO ADMINISTRATORS?! EVERYBODY DELETED MY ARTICLE BUT NOBODY HELPED ME, IN TELLING ME WHAT SHOULD I DO TO MAKE IT PASS THE RULES OF WIKIPEDIA! I ONLY RECEIVED CRITICISM!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "PISSED"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": null
+    },
+    {
+        "Index": "e19ee6d5c0f8ca90",
+        "Comment": "\"\n\nThere's no such thing as pollution on a digital forum, dumbass. No one in #memes or #atheism cared about the article being vanity when it was negative. It was only until the article became a regular Wikipedia article and not vanity that I heard the howl's of protests from a gang of gutless thugs who wouldn't dare raise a finger unless they were cowering behind their computer screens. Your \"\"campaign\"\" is a lame attempt to delete one article. The \"\"cleaning up of Wikipedia\"\". Kind of the \"\"cleaning up of Germany\"\"? I guess you're glad that clean up failed or you would have never been born. Take your lame campaigns somewhere else. Your mind games are boring. \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "dumbass"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "dumbass"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dumbass"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "thugs"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "cowering"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "lame"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "lame"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "boring"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "d4d607432a3f81a8",
+        "Comment": "Wikipedia for online losers\n\nI am being accused of vandalizing Afghanistan's article....because the accusers are all jealous of me hahahahahahahaha.  09:32, 31 October 2006",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": " losers"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "losers"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Afghanistan"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "losers"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6337fee60fde0d1b",
+        "Comment": "== Intro  == \n\n When and why did this article article get its new intro (section 0)? 500 versions back it was IMHO much preferable. The concept of Newtonion black holes should be discussed in the history section only.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "3670eb9f92d451ec",
+        "Comment": "Oh come,  on not again.  Admins, stop wasting time and just permaban, you know the situation won't change.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "come"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "d281c4393f45ca11",
+        "Comment": "Courtesy of this phenomenon my son already has procured an arrest record.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "a01168181cc6c315",
+        "Comment": "Because other sources indicate this is incorrect information, because the content isn't informative,  and because this is a BLP, I'd say this content can be deleted with out losing NPOV or robbing the article of information on this aspect of Hagelin's life.(  )",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "2527ff7942f27d97",
+        "Comment": "Im frustrated with destructive WP bullies. Some admins add no value, they in fact should not be on WP. additionally, they have a very bad and NEGATIVE PSYCHOLOGICAL FOOTPRINT. They belong in a rehab and mental health counseling center, not on WP. I can empathize with them but why must we have to suffer those on WP.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Group",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "those"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "WP"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "destructive"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bullies"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bad"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "suffer"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "17289fa6cc46d7f5",
+        "Comment": "\"\n\n assistance \n\nI seek administrator assistance. USRTOK monitors my edits and reverts them whevener he feels like it. In the articles \"\"List of billionaires (2006)\"\" and \"\"List of billionaires (2007)\"\" he reverts my addition of the Lebanese flag next to Carlos Slim Helu's name, and does it sometimes with using an IP instead of his username. Get him off my back, if you will. As much as it may bother \"\"Emerson\"\", Carlos Slim Helu's parents are both Lebanese, his holds the Lebanese citizenship and visits his country very often.  \"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "3d70b1f15afd1925",
+        "Comment": "\"\n\n Who writes this Garbage? \n\n\"\"Known publicly as an experimental group, Garbage used their powerful videos to distort the dimensions of their songs.\"\"  Does any part of that sentence make any sense? The answer is no.\n\n\"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "this"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Garbage"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Garbage"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "c1f21bfc6f6cef58",
+        "Comment": "Shut the fuck up both of you!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Group",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "both of you"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fuck"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "bd10acf22a81ec63",
+        "Comment": "I also find it interesting that after TXmaster and NSUBOY were blocked from editing, Mia2007 pops up as well as this IP address which resolves to somewhere in Oklahoma start to pop up claiming the same information.  Pathetic I tell you.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Mia2007"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "TXmaster"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "NSUBOY"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Mia2007"
+                },
+                {
+                    "Tag": "Target_Other",
+                    "Token": "IP address"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Pathetic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "d0a10b933ad72c1c",
+        "Comment": "Hateful mod \n\nabusing his power to re-edit. i guess as long as you make the blanket statement (i don't think your edits were right, i didn't check but im lazy so i'll just delete it) you can delete what you want.\n\nit's a shame that the mods don't stop a single person who actively tries to destroy an entire section of wikipedia by putting legit articles up for deletion. i guess you guys are trolling friends who troll like this all the time. instantly fucking up legit edits like mine just because you don't have a real life. sad, very pathetically sad.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "troll"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "don't real life"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "trolling"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "pathetically"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "mods"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "wikipedia"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fucking"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "trolling"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fucking"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sad"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "pathetically sad"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "8ef4341be669c069",
+        "Comment": "then you leave my shit alone ok. i cnat stop you from messign with my skyview page, but dont you dare tocuh my user page or profile again, do you understand me?",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "shit"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "shit"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "f574f337e4dc5e28",
+        "Comment": "I'm not the deranged harrasser here.  You and yours are.  Project your personality onto someone else.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "You"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "2e2737e538f65e5f",
+        "Comment": "I very much doubt that you can describe an undoubted POV vandal such as USRTOK as 'editing in good faith'. Just ignore these stupid Admins",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "Admins"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "stupid"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "USRTOK"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stupid"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "4dd43e711dd60cd8",
+        "Comment": "The Chinese woman first discovered the potatoe for vaginal clearing uses.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Chinese"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "vaginal"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5f86dcde04dba278",
+        "Comment": "this is my sandbox, where i wil be testing out stuff. \n\nstuff i forget \n\ntemplates don't have to be written wit templates in them\nuse  and  to place examples of markup here",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "b977b36ff0aba246",
+        "Comment": "\"\n\n KITTENS! \n\nI throw them against the wall.\n\n  \n\"",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Other",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "them"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "throw"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "4c745145923326df",
+        "Comment": ". That is exactly why I included that statement - for maximum clarity (short of a map)",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "70b1916e037b1446",
+        "Comment": "IP \n\nNote that I use endless IP numbers.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "8939e811ddafabc5",
+        "Comment": "ha ha i shoulda known u really dont care bout the rules u just want n excuse to ban ne1 who doesnt kiss ass to admins",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "No_target",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ass"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3e5eee1ee21c4b3c",
+        "Comment": "== Struggling == \n Nav the Viking Goddess is having struggles all over Wiki this morning D . Some people have an extremely hard time with WP:CON when it conflicts with their personal POV. They are the worst sort of editors. I'll take a simple vandal anytime over a soapboxer, POV pusher, a crufter, an agenda-ist or...ungh... worst of them all... inclusionists. Do you wanna know why 90% of Wiki articles suck? It's because 90% of its editors do too.  that's my mornings worth of philosophical wit shot to Hell in one morning... but it's goin' on my talk page D  Welcome to the 10% club my friend!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "They"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "worst"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "suck"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "to Hell"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "agenda-ist"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "inclusionists"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "crufter"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "soapboxer"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "vandal"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "worst"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "inclusionists"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "editors"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "1846e92a0ec738f7",
+        "Comment": ":::Yes, but commonly this sex act involves the man placing his penis in the woman's cleavage and thrusting between her breasts. I change some word, OK?",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sex"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "penis"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "thrusting"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "83730a25769fb805",
+        "Comment": "Why doesn't MS understand the concept of backwards compatibility? (and why doesn't my school understand the concept of occasionally updating their software?)",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "MS"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "doesn't"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "addf50826ddc70ec",
+        "Comment": "Your content is jerky.  Please stop or I will be forced to do something I don't want to do.  99.164.68.102",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "Your content"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "jerky"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Your content"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "jerky"
+                },
+                {
+                    "Tag": "Target_Other",
+                    "Token": "99.164.68.102"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "09899336db45abe7",
+        "Comment": "\"\nI mind my language when i'm working with real people, not an ignorant dumbass!    \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "dumbass"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "ignorant dumbass"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dumbass"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "ignorant dumbass"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dumbass"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "c244763692ef460b",
+        "Comment": "Time of Day\n'The Who performed it just as the sun and almost half a million concert goers were rising on the third morning of the festival.'\n\nOh really? OK. Then can you explain why the concert footage shows them playing in the black of night? Did those five hundred thousand rise before dawn? Go here and see if you can see anyone rising or any sign of 'morning'. Then if you know something that defies the imagination of others: CITE IT.\n\nURLTOK",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "2db70309e6075356",
+        "Comment": "stop being a fool\nIf he's going to post up racist lies and claim he's following policy, I'm going to call that fool Feldspar what he is, a racist fool.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "he"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Feldspar"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fool"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "racist"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "fcd693485b8fdc93",
+        "Comment": "Stop butchering articles \n\nWhat a hack job you did of the Gorilla article.  Do you actually think it's an improvement?  I'll keep reverting until it gets through that thick skull of yours that your changes were totally unnecessary.  A separate page just for gorillas in popular culture?  What were you thinking?  That was a VERY stupid move.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "yours"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "thick skull of yours"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hack"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stupid"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "90638aeb26b26318",
+        "Comment": "Yep, it's a shared IP.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "983195f43a5084a8",
+        "Comment": "wth are you on about m8 \n\ni did not vandalize any pages such as al roker\n\nal roker roks and if u continue to mock me as u did just den, u will be sori becuz i no al roker in reel life and he asked me to do that to his page so plz be quiet or i will call him and tell him to predict u dying which wil cum  tru becuz al roker never fails\n\n 71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191   71.15.159.191 ([[User talk:71.15.159.191|ta",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dying"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "wth"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "al roker"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "4a666b919a0c871a",
+        "Comment": "What difference does it make? GO AWAY. I am NOT testing, I am making edits that you decide to RV just because they're by me.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "GO AWAY"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "45edf23c0f157eff",
+        "Comment": "\"\n\n Sciurognathi \n\nAccording to ITIS  \"\"Sciurognathi\"\" is a junior synonym of Sciuromorpha Brandt 1855. I see however that \"\"Sciurognathi\"\" it is used in Mammal Species of the World. Can you comment? Gdr 18:21:08, 2005-08-12 (UTC)\"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "381a504c1c9d1574",
+        "Comment": "\"\nNo, at the bottom of all the pages, it says something to the effect of \"\"haha beep you r dumb haha\"\"\"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dumb"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dumb"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "20087065d1e18579",
+        "Comment": "Hello? stop avoiding my question and i wil keep doing this untill u give me a straight forward answer \nalso, you should be stripped form ur adminship due to the fact that from what i am seeing, you have been very corrupt. However, that is just a personal opinion. Basically what i am asking for is for you to answer my question yet you keep dodging it as if you are hiding something or you don't really care for wikipedia any more",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "corrupt"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stripped"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "58a5c199fc585034",
+        "Comment": ", in which case this block is precisely intended to keep you from editing.  Od Mishehu }}",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "674c3aa167e7bc2a",
+        "Comment": "\"\n\n Fan letters \n\n__Goosebumps Appreciation Society__\n\nYou, sir, are a fascist for deleting the scholarly review that was posted to the Goosebumps page. There is a special place in hell for fascists like you, and I only hope you change your ways before it's too late.   — Preceding unsigned comment added by 50.124.147.184   \n\nMmm, outraged anon tears taste so good in the mornings.  (arf!) \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you, sir"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fascist"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hell"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "outraged anon tears"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "81ff9ba702266c27",
+        "Comment": "Guys please… come on. This guy is a comedian (and a fine one in my opinion), not a hate monger. Comedy is a form of art, take it as is. Why do people waste energy bitching about stuff like this? I’ll never know.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "bitching"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "2bb86acd9ffa1ebb",
+        "Comment": "Apologies \n\nThis IP is from a school and as so is used by everyone, even the idiots who want to vandalize wikipedia without thought to everyone else; so all apologies from me as one of those who use the IP.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiots"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "idiots"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "vandalize"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5ffeb65080a6b716",
+        "Comment": "Thanks for explanation.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "21d21e47a639aa9e",
+        "Comment": "Hi\n\nwhy did you give USRTOK a kindness star. he's the rudest admin i have ever met on here. A truly nasty piece of work and many people agree with me",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "USRTOK"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "USRTOK"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "nasty"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ea2539d75e7a24bc",
+        "Comment": "Another little hitler who decides to ban me you are a disgrace. I diD nothing yo you and as usual the bullying thug decides to spring out of nowhere go after me who can you say this is no vinditice. As i have said lots of you moderators are just little hitlers who stand up for eachother but on else. You are a bully, and do not remove my reply. \nYou are a bully as usaul another smug bully who get spleasyre trying to keep someone down. I am can imagine you are prbaly the worst of the lot a ottal nightmare. and dont tell me to be civil to someone who bbans me yiou bully you clam down this ps my user page you bullying thug. \nI bet you are troll.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "moderators"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "hitlers"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "troll"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hitler"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bully"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "troll"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6b4c1aa0821e725b",
+        "Comment": "Nice to know you back nazi's",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "nazi"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "nazi's"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "62d5295ab912338d",
+        "Comment": "you are a liar ,  you are changing and stealing turkish history . please stop what you doing .\nregards",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "liar"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "liar"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stealing"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "44cd3cd3ba6209ee",
+        "Comment": "==the latest ghouta chemical attack nonsense you and your pov. crowd of morons are pushing, , its just conspiracist claptrap , erlabaeko , and you know it, or else you are a complete dumbass,  you  pro-Assad fascist tosser==",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "dumbass"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dumbass"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "fascist"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "tosser"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "morons"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": null
+    },
+    {
+        "Index": "dc11d42db2046f55",
+        "Comment": "YOU ARE VERY BLIND AND SUBJECTIV EE A, HOW COULD YOU WRITE SUCH A TEXT WHEN I WASN'T AT ALL IN ALL THE DISPUTE ABOVE, AND WHEN YOU COULD OBVIOUSLY SEE THAT A TEXT OF MINE WAS MISSING AND THAT YBM HAD GIVE IT THE TITLE GARBAGE, FOR WHO WILL CALL HIS OWN TEXT GARBAGE, BUT YBM....?",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "YOU"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "YBM"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "GARBAGE"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "07ab06ef770756e4",
+        "Comment": "Chinese budget \n\nI've updated the budget to state it is estimated to be $190billion with the following 2 references. This is the CIA estimate. link 1",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "6a6683a81db29bc4",
+        "Comment": "You are inconsistent in your use of the umlaut in Müllerian.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "03e4f1ae50baf0c3",
+        "Comment": "You can't kill the party Soap, YOU CAN'T KILL THE PARTY!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "4fd09814c0b8a35a",
+        "Comment": ":And this and this and this is blatant unsourced and not true bullshit, thus I say vandalism to avoid offending anybody.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "this"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "bullshit"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "blatant"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bullshit"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ec41768a829d0097",
+        "Comment": "\" \n\n == There may be a problem with ticket price == \n\n i noticed in the \"\"interior\"\" section that the conversion of the ticket price into present day pricing seems off.  The US price is about half that of the British price in pounds. I don't know enough to fix this; could someone please verify?\"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "369e6c601e2afa4e",
+        "Comment": "USRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.\nUSRTOK is a shit.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "User"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "shit"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "USRTOK"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "shit"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3994c52e75b59696",
+        "Comment": "What a ridiculous suggestion. If you don't think certain flags are British then why would it be relevant for the United Kingdom?",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "certain flags"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ridiculous"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "dd4027331e3dc92c",
+        "Comment": "OK, I have templated 4-polytope for speedy delete to clear the redirect, and subsequent restoration by moving this article across. Subject to no last-minute objections, we just need to wait. — Cheers,  (Talk)",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "db01b3429dd2bc12",
+        "Comment": "So if your so smart why don't you go away a**hole.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "No_target",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "a**hole"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "0ae2ad06a59d926b",
+        "Comment": "Don't patronize me jerk.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "jerk"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "jerk"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "jerk"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "jerk"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5fc5a76740a88d41",
+        "Comment": "\"\n\n PS: You forgot to add \"\" Mid-40 yr old PERVERT WIKING PORN STARS\"\" \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Mid-40 yr old"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "PERVERT"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "PERVERT"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "c50535ec2ac784d4",
+        "Comment": "ou leftist Wikipedia scum are an insignificant fringe group that will soon be exterminated.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "leftist Wikipedia"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "leftist"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "scum"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Wikipedia"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "scum"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "exterminated"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "366ae8b2fd49ae3e",
+        "Comment": "\"\n\nOH, OH, NICE ONE, REVERTING MY EDITS! CHRIS HATES SERBS!!!   - talk \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "More_targets",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "SERBS"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "CHRIS"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "CHRIS"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "SERBS"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "NICE ONE"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b62fee4238bdee8e",
+        "Comment": "Hello. I've noticed you've refused to apologise for your vile censorship. What motivates fascists like you exactly? I think you're a despicable person and that this website would be better off without you. Please leave, weirdo.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "More_targets_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you're"
+            },
+            {
+                "Tag": "Target_Other",
+                "Token": "censorship"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "person"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "website"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "fascists"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "vile"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fascists"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "despicable"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "weirdo"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "1ab851a84177eb3b",
+        "Comment": "::He never recommended to step out of the article, Biophys, The Liar.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Biophys"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Biophys"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Liar"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "db0c4a8ef4f8864b",
+        "Comment": "== Carlton Black == \n\n Have you ever tried Carlton Black with cheesecake? I resent the charge of silliness, you donkey.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "donkey"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3cb5d8d2496f867a",
+        "Comment": "CROCKSPOT...YOU MUST REALIZE THAT YOU NEVER WILL BE AN ADMIN... THEY ( THE DUOL WILL NEVER ALLOW YOU HAVE THAT POWER..ONLY PINK COMMIES, LIKE ELEEMOSYNARY WILL BE PROTECTED AND ENABLED.\n\nMY PURPOSE IS TO JUST TAKE UP BANDWIDTH AND DISK SPACE...WIKIPEDIA HAS NO RESPECT IN THE REAL WORLD..",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "ELEEMOSYNARY"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "CROCKSPOT"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "CROCKSPOT"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "PINK COMMIES"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "CROCKSPOT"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5d4238d395a147d4",
+        "Comment": "\"\n Hello, Katsee, and Welcome to Wikipedia! Thank you for your contributions to this free encyclopedia. If you decide that you need help, check out Getting Help below, ask me on my talk page, or place  on your talk page and ask your question there. Please remember to sign your name on talk pages by using four tildes (~~~~) or by clicking  if shown; this will automatically produce your username and the date. Also, please do your best to always fill in the edit summary field with your edits. Below are some useful links to facilitate your involvement. Happy editing!   \n|}\"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "1ed6589c631770ca",
+        "Comment": "[Mauritius Listing] is a free directory listing, online advertising and publishing site where you can advertise your business or company information. Adverts placement are also available.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "db427000da63388b",
+        "Comment": "josh bell 11ft size zero in need of sex... sexually fustrated, seen one naked girl and needs a little life!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "life"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "sexually fustrated"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "josh bell"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sex"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sexually fustrated"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "naked"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "34546f0e216d4ad7",
+        "Comment": "Pete, piss off. Macosal asked a polite question. I happen to know (a fair bit of) the answer, so I gave him a polite answer. I hope it helps him understand. I'm not pretending that I have sources for all of this. I'm not asking that it be added to the article. I'm sharing knowledge. It's something I do. Reject it if you choose. I cannot comprehend why you would, but people surprise me every day. (Oh, and there's little opinion in my post. Most of it is pure fact. A fact is still a fact whether it's sourced or not.)",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Pete"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "piss off"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Pete"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "piss off"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3580e25c0067068a",
+        "Comment": "== obnoxious == \n\n What an obnoxious fellow you are. I bet you are undoubtedly white collar and most probably a teacher. Though you might also be a sad, lonely and frustrated office boy.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "fellow"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "obnoxious"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "db699f105622680a",
+        "Comment": "6 to 8 Frozen Zone \n\nThis Google search for this show that excludes mentions of Gillies, Trainor and Lawrence finds nothing about a TV show of that name other than a delete discussion at the NL wiki. I doubt this show ever existed but somehow got attached to Gillies and Trainor as either misinformation or a web hoax. IMDb does not list this show and they are pretty good at info on old shows. I removed mention of this show from this article and Jerry Trainor's article. No mention was in the Mr. Lawrence article. I would like to see some proof of existence outside of web articles on Gillies and Trainor before considering this a valid credit for any person.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "0b448eb6f0faca84",
+        "Comment": "really really suck and i am a terrible admin and a really bad person and a total douche",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "admin"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "person"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "douche"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "suck"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "douche"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6aa1e5725f0ac783",
+        "Comment": "Hi, I edited the Preston Brooks page. Get off of wikipedia now. \n76.119.30.230  \nNot an idiot (unlike you)",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiot"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "idiot"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "897b724c237b0f0a",
+        "Comment": "reference link on The Color Purple \n\nHi! Thanks for working on The Color Purple. Would you take another look at the reference link you added? I'm getting an error message when I click on it.   | Talk",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "7bac0b298015cb32",
+        "Comment": "AM making a formal complaint about your biased stance \n\nI have more than enough evidence, how you have SELECTIVELY erased certain UN-orthodox POV which YOU deem unacceptable!\n\nSo in which case, i will ask, does WIKI accept the un-orthodox churchs POV, or ONLY THE ORTHODOX CHURCH!\n\nand ALSO, will question your ability on integrity, where you HAVE SELECTED THREE PASSAGES, with minimal scholary debate, in which the scholars you DEBATED agree that no meat eating passages exist, BUT IN YOUR BIASED STANCE, YOU HAVE PROTECTED ONLY AN ORTHODOX POV!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "biased"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "un-orthodox"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "POV"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "scholary"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "debate"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "biased"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "scholars"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "debated"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "biased"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "protected"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "4422cc7ce657f7d9",
+        "Comment": "\"\n\nYelling \"\"gook\"\" over and over again at an Asian person when it has nothing to do with the topic at hand is a racist comment by any sane definition of \"\"racist comments.\"\" You are doing exactly the same thing Donohue does by obstinately ignoring the obvious, as well as by confirming every stereotype of right-wing Catholics as bigoted, loud, anti-intellectual bullies.  \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Group",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "right-wing Catholics"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Donohue"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "gook"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bigoted"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "anti-intellectual"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bullies"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "93acbc836f85f41f",
+        "Comment": "Say I fail again \n\nAnd you're being reported. You think that you are the hot shot that runs everything around here. News flash: you're not untouchable. You're just someone who can abuse power just like everyone else on wikipedia. Young buck can't afford to varify his acount. Does that mean it's illegitimate? NO. VERIFIED PRODUCERS, have tweeted with that acount, hence confirming it's valid. So just shut your mouth, and stop reverting that page or be reported, to hell I care.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "shut your mouth"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "shut your mouth"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hell"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "501ba2cc06e8125b",
+        "Comment": "Because it is an R&B; album, and Wikipedia's choice in reliable sources is retarded.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "Wikipedia's choice"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "retarded"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Wikipedia's choice in reliable sources is retarded"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "retarded"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "11878e0a9526455d",
+        "Comment": "== Deletion of Specialized city == \n\n I really don't understand why you deleted it. It was a total concept of urban geography and city planning.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "8d6c4c862f6a79a8",
+        "Comment": "Moving pages \n\nHi Myrdred,\n\nThe best way to move articles is to use the Move link on the left-hand side of the page.  Cutting and pasting the text of articles from one to another only moves the text; it does not move the edit history.  Fragmenting the edit history is both a nuisance and a legal issue, because when we don't provide a list of all contributors to an article, we are violating the GNU Free Documentation License.  For this reason, you should always use the built-in move feature.  If the location you wish to move to already exists, you will have to convince an administrator to do the move.\n\nBecause only administrators can undo a page move, please always make sure that other editors agree to your move before carrying it out.\n\nThanks for your contributions.   talk",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "0fcc5efdbaffae06",
+        "Comment": "hey. we need 2 cum up w/ sumptin fast 2 post. iv got no clu wat 2 do. i don realy git the asgnmt. do u? post on my page or eamil me r wtevr. ttyl",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "14da12f3e2cfb072",
+        "Comment": "Response \n\nWell, thanks for giving me a final warning.\n\nAs usual, I get no appreciation for expanding articles on this site, no words of encouragement for the hours that I spend fighting vandalism; just crap. Crap for the 0.1% of my edits that could be described as nonconstructive.\n\nWay to go, moron. Keep up the good work. -",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "crap"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "moron"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Crap"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "moron"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "crap"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5429541104b438f2",
+        "Comment": "Mistakes\n\nSince you idiots won't let me edit this page, I'm just pointing out some mistakes. There have been 105 1/2 episodes to air, not 104 1/2. Also, you have the episodes Help Wanted/Reef Blower/Tea At The Treedome to have first aired May 1, 1999 and then as a normal episode on July 17, 1999. They didn't air as an actual episode until July 24, 1999. Change it. Now.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiots"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "idiots"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "idiot"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "mistakes"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "bff95a320336f0e7",
+        "Comment": "== master of the vagina? == \n\n This book () says that Bahgwan translates as 'master of the vagina'. Is there any truth to this?",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "master of the vagina"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6d899a49407733f0",
+        "Comment": "What exactly is your problem? \n\nGo play games with somebody else little boy.  Put down your video game controller and get out of your mommies basement and get a life assclown.  We are in current production, not 1934-1994 as you falsely keep suggesting.  1934-2012 so get it right assclown.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "little boy"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "get a life"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "assclown"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "assclown"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "assclown"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "44c880582e6f476f",
+        "Comment": ":The Internet can not be defined as Russian media, so using this picture in such context is simply stupid",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "using this picture in such context"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "stupid"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "93c0ba5d32ecb6e7",
+        "Comment": "\" \n :Quiet, you. Whether you are a troll or not is irrelevant - your edits are trolling, are uncivil, and are ridiculous. —  \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Other",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "edits"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "troll"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "trolling"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "uncivil"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ridiculous"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "55bb7d3553dfba31",
+        "Comment": "Films\nThe Boys Are Back In Town\nGreen Day: Sweet Children To American Idiots",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "663dfdb0a20fcc7f",
+        "Comment": "\"\n\n Diwali! \n\n Happy Diwali!!! \nSky full of fireworks,Mouth full of sweets,\nHome full of lamps,And festival full of sweet memories...\n\n'''''Wishing You a Very Happy and Prosperous Diwali.\n  \n\nSend Diwali wishings by adding  to people's talk pages with a friendly message.\"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "cad6fd291f634ee2",
+        "Comment": "Hope, you'll grow up one day when someone like you gets Wikipedia! Till then feel free to play your moronic tricks",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "moronic"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "moronic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "c1b9b97ddbcd0ef9",
+        "Comment": "If you are asserting ownership of the article, then do the work yourself.\nOtherwise leave it for the bloody link rot team of 4 or 5 guys to fix.\nYou don't have a bloody clue about the workings of link rot at Wikipedia, do you?\nI thought not.\nTypical. 142.204.141.222",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "article"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bloody"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "You"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "24a7f5a7df2f2602",
+        "Comment": "I guess it's a good thing that what you think doesn't matter as no one will support this rather insane assertion.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "insane"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "bea641646dd99c00",
+        "Comment": "know that Salivo sucks",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "sucks"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Salivo"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sucks"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b6903e64cdf95226",
+        "Comment": "The band cites Trivium, Metallica, System of a Down, Pantera, Machine Head, Fear Factory and Kamelot as influences. Psycho states that his favorite guitarists that influence his own style are Corey Beaulieu, Kirk Hammett, Dave Mustaine, Robb Flynn and Andy LaRocque. Also, he states that Robb Flynn, Matt Heafy and Phil Anselmo have influences his vocal style. Obie cites Oliver Palotai of Kamelot as a favorite keyboardist. As influences on his vocal style he mentions Brandon Boyd of Incubus and Roy Khan of Kamelot. Rob cites Robert Trujillo of Metallica as an influence and Cioky names John Dolmayan of SOAD as a favorite drummer. Sethgar has named Daron Malakian, also of SOAD as a favorite guitarist.\nThe band plays a blend of multiple genres of metal: metalcore, thrash metal, gothic metal, industrial metal and death metal, but they don't always put all the styles into a single song. They rather blend two or three of these styles into one song, making it difficult for their songs to be catalogued as a specific genre. \n\nBand members\n Psycho - Lead and Rythm guitars, growled vocals, rarely clean vocals \n Obie – Keyboards, clean vocals\n Sethgar – Acoustic Guitars\n Rob – Bass \n Cioky – Drums \n\nFormer members\n Stinkman - Bass \n Maq - Rythm guitar\n G-Orgy - Drums\n Legolas - Drums\n\nDiscography\n HORRORfying (2009 - single)\n Acheron (2009 - Not yet released)\n\n WIKIPEDIA SUCKS!! IT SHOULD BURN!!",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "WIKIPEDIA"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "SUCKS"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "SUCKS"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "BURN"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "23f04785307b4d40",
+        "Comment": "gay ==\ngay here. how do u view men kissing men?\n\n==",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "gay"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "gay"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "men kissing men"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "624cbaf36b0c73f0",
+        "Comment": "way to ignore the discussion and my points you bureaucracy-obsessed aspie.  Coming here from a link to the page isn't against any rules.  Calling you a tard is, tard.  You arent participating in the discussion at all.  Youre refusing to because youre an irrational japanophile.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Youre"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "tard"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "japanophile"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "tard"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "tard"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "irrational"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "371564bdaf5dd202",
+        "Comment": "Marie Luv \n\n 20:18, 2 September 2009 (hist) (diff) Marie Luv ‎ (Reverted good faith edits by 85.201.107.27; Rv unsourced. (TW))  (top) \n\nIt's on IMDb. Do I need to add source to EVERYTHING I write?  Do you something else than reverting? Can't you DO something in place of arguing and reverting? You are the cancer that ruins Wikipedia.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "cancer"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "85.201.107.27"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "cancer"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "1fa351e72bccd8c2",
+        "Comment": "\"\n\nContradiction\n\"\"This distinguished [transcendental idealism] from earlier 'idealism', such as George Berkeley's, which held that we can only directly know the ideas in our minds, not the objects that they represent.\"\"\n\n\"\"Kant's transcendental idealism consisted of...understanding that the mind directly knows only phenomena or ideas.\"\"\n\nIf this isn't contradictory, it should be rewritten to be made more clear.\"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "ddd4c5314816188b",
+        "Comment": "Whoa there \n\nTake it easy. There is no need to leave Wikipedia because someone (me) called you a nigger. It's the Internet. Insults are commonplace.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "nigger"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "nigger"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "1ff57fd510650406",
+        "Comment": "no seriously Geoff, up yours and make it painful \n\nMy criticism was to a TALK PAGE, It was legimate criticism, and now you are blowing it up into some wiki war in which next you will threaten me because that's waht fascist wiki nazis like you love to do with some sort of block on my IP.\n\nBlow me geoff and phuck you with a porcupine. FOAD forever\n\nLEAVE ME NO MORE MESSAGES",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Geoff"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "up yours"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "nazis"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Geoff"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "up yours"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "phuck you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "FOAD"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b2539f888c53cc40",
+        "Comment": "Thanks Bill, but my credibility is not relevant. The central issue is the credibility of the sources we cite in the article, and achieving a balanced presentation when reliable sources disagree with one another. I have been disturbed by edits that are factually incorrect, and either not substantiated by cites, or cited to sources that don't meet WP:RS.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "d0f05c366d8e698c",
+        "Comment": "2010 NBA Finals and Adam Morrison \n\nYou are annoying and ruining other people's fun please stop deleting all the edits on the 2 above pages, you are nothing but a buzzkill who is pissing other people off.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "other people"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "buzzkill pissing"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "You"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "annoying"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ruining"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "pissing"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "d7a94dc6b8ba832b",
+        "Comment": "I'm not on a Windows computer. Hate them, as a matter of fact. .  fys aym.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "4e7e8033d2591afe",
+        "Comment": "August 2011 (UTC) \n :I've opened a move request at Talk:Santos, São Paulo#Requested move to discuss moving Santos, São Paulo to the base name at Santos. That way we can get the articles moves properly without splitting the edit history if consensus supprts the move.   21:08, 18",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "d1cc045afaa028bb",
+        "Comment": "WTF, someone edit the vandalim to his full name, it says, Hulio Retardo",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "Retardo"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "WTF"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "WTF"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Hulio Retardo"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "963de7f16683309c",
+        "Comment": "Dear Josiah,\n\n2 random blaggards named Bastin and John Carter have repeatedly vandalized my page and I solemnly think it needs to stop! They keep on insulting my intelligence and from what I have heard you are a good administrator who helps people out! The best way you can help me is to block these fools immediately!\n\nLots of Love,\nGod bless,\n\n12th Doctor",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Bastin"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "fools"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "blaggards"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Bastin"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "John Carter"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fools"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "dea5dd94dacd4675",
+        "Comment": "What complete garbage, I never had anything to do with that Verdict nonsense, which is made clear . And I trust 100% that you will be back, either as this or some other user name.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "nonsense"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "garbage"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "51c4730f143172f9",
+        "Comment": "\"\nSending out now! -) ''' talk''' \"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "62bee7917890aa9c",
+        "Comment": "Censorship on Islamist Terrorism\n\nTry not being a censor monger. Properly cited information should not be deleted.\n\nStop trying to hide your racism.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "censor monger"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "racism"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3172ce2d68595fb8",
+        "Comment": "\"\n\nRegarding you \"\"People in glass houses comment you are \"\"Bias, Yank and Retarded\"\"62.252.234.27  \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "No_target",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "62.252.234.27"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Retarded"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "40843e2d40eb548e",
+        "Comment": "really? \n\nshould page even exist? does every band of whack jobs get a wiki page to spout their crazy?",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "band whack jobs"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "crazy"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "band of whack jobs"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "crazy"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "881fbf355aa43b3c",
+        "Comment": "I may assure you that I am sober by now. Somehow I still don't give a shit. So please, block me for as long as you like but mainly, leave me be. Why should I do research, giving it for free and even have to fight for it with idiots like 4meter4, who instead of put the citation to quotation marks he delete it and than another idiot blocks me for no reason? I sing profesionaly, I sing falsetto whole my life, never heard it is breathy and never heard any breathy falsetto at all even from countertenor - who DO NOT sing falsetto which I do simply because it would be technically impossible for them! But 4meter4 has in his article, he has there that it is breathy, so it must be truth. Good bye",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "idiot"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "fight"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "shit"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiots"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "shit"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "4meter4"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "another idiot"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "8075075dc038ab7c",
+        "Comment": "\"\n\n Quite possibly the ugliest specimen of male ever \n\nSerious O_o  (Α⇔Ω ¦ ⇒✉) \"",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "specimen male"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "ugliest"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "male"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "ugliest"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "51fa2979e4314d75",
+        "Comment": "I looked around and 68.127.37.123 is the IP of the user vandalizing this page and the Great Purge.. posting his small little penis for the world to see lol.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "68.127.37.123"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "user"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "vandalizing"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "penis"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ee7804081740b80f",
+        "Comment": ", 18 September 2012 (UTC) \n\n ::::::::Your stubborn ignorance clearly knows no bounds. The point you seem unable to comprehend is that the alt text and the caption complement each other. It's perfectly obvious what the screen dump is of, as described by the caption.   18:44",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "No_target",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "5d8643dc5ae8e710",
+        "Comment": "man you need to get a girlfriend and less time on wikipedia!!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "man"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b7cd120cf010a8a3",
+        "Comment": "No The AfD probably should have been closed as no consensus in my view, but DRV provides an appeal mechanism for the AfD process and there's no evidence that MBisanz did anything wrong. This recall request seems dangerously close to a WP:POINT violation.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "1778614f09a0613a",
+        "Comment": "Yes a blog! Yes a Realtor site !  \n\nNo those sites are not spam you nazi!  You don't live here, so YOU HAVE NO CLUE!\n\nBoth of those sites have a local buzz to them.  The crime blog has be exposed many times as an ingenius idea.  It was started to showcase how many repeat violent offenders are given slaps on the wrist.   Very useful to someone wanting info about Charlotte\n\nThe realtor site is a company that has been featured on the news for helping fraud victims.   They were recognized by NC State represenative Deborah Ross.    Considering most real estate companies are crooks, its good to highlight one that is not.\n\nEverything that was there, expanded on important details not covered by the article.\n\nThat city-data forum is one of the best places to get accurate data from locals.  It's a very strict forum.. there are no advertisements.\n\nCarolina Nightlife is hands down the best Charlotte nightlife resource guide out there.  There is nothing relevant discussing anything about nightlife.  You can't expect to believe that your NARROW VIEW of what you believe is appropriate applies to everyone.  It doesn't!\n\nYou are a scumbag!   You ban me prematurely, and then tell me to discuss it.  How am I supposed to do that when I am banned??   I'm glad you clowns love the little power trip you get.   You don't know Charlotte, your selective enforcement policies are BULLSHIT, and you don't follow rules you are entrusted to enforce.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "YOU"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "nazi"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "BULLSHIT"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "crime "
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "scumbag"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "nazi"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "scumbag"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "clowns"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "BULLSHIT"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "f817a89426c032a7",
+        "Comment": "no...I consider myself whatever I want.  I don't support many of Calderon's stances, but I admire his economic policies and amazing campaign for president.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "439fb62a7d29683e",
+        "Comment": "== C.FRED IS A JERK & SO IS WIKHEAD! == \n\n URLTOK",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "WIKHEAD"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "C.FRED"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "JERK"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "C.FRED"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "JERK"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "WIKHEAD"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "eed9fc1171481e7f",
+        "Comment": "\"\nheh. Well, I (And all the Thomas articles) refer to just being there, and not doing anything to be a cameo. It's also pretty hard to find a reliable source saying that they cameoed in Season whatever. Since, I'm trying to revamp those articles with proper sources, and what not, I figured, hey, it's not like cameos are that notable, according to AMIB, Rob, TTN, and the rest of 'em, and I can see where they're coming from. Better off for a Wikia. Skeletal  Soul teh Hedgie \"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "a7ae56033439e5f4",
+        "Comment": "I like old cheese espicially the kind thAT comes on our pizza at school, its so plasticky that i can see my reflection \n\n  \n\n Darth Sidius never died. he simply became one with the dark side \n\n  \n\n I would ,like to announce my retirng from masturbation \n\n  \n\n  \n stop reding this page you fool \n\n  \n\n  \n\n == Headline text == \n I like big butts and i cannot lie \n you other brothers cant deny \n\n  \n\n  \n\n  \n\n  \n\n == Headline text == \n soon you, like your father will be mine \n\n  \n\n  \n\n  \n You were supposed to be the chosen one! It was said you would destroy the dark side, not join it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Darth"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "Sidius"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "butts"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "masturbation"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "fool "
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fool"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "your father"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "666cac78892fd024",
+        "Comment": "September 2014 (UTC)\nYes, your opinion.  Quit acting like an aspie retard.   00:13, 14",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": " retard"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "retard"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b25003290334446a",
+        "Comment": "these people deserve all the contempt and scorn of society",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "No_target",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "these people"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "contempt"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "scorn"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "166fc6f7645d2133",
+        "Comment": "Ooh wow, a veteran editor! You've been around for what, 2 years? I've been around for more than twice that and I reserve the right to flame no-life asshats like you. Cheers",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "asshats"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "asshats"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "95e8e03ce16cfcb4",
+        "Comment": "loves farting in peoples faces",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Other_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "peoples faces"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "farting"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "farting"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b339481912144179",
+        "Comment": "I hate the United States Government because it seems to enjoy killing innocent people in the Middle East. Mr. Monkey Boy or better known as George W. Bush is behind this and should receive the Capital Punishment for this and then have his body be tossed in a dumpster.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "George W. Bush"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Bush"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "United States Government"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "George W. Bush"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Mr. Monkey Boy"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Capital Punishment"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "tossed in a dumpster"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "9d77d20b3daa43b8",
+        "Comment": ":Males have a penis.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "penis"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "51ffd25166449b93",
+        "Comment": "....... \nnow that i think about it, luna means moon and satin means devil!\nso that means you are the moon devil who else would be the moon devil\nbut the person who disabled my ACCOUNT!!! ( if trevor is reading this \nthen i want to say that i love that snowman, i tred to make one but it\ndidnt work(scroll down))\n\nfurther\n\neven further\n\nalmost there....\n\n __\n(**)\n( .)\n(. )\n                          O   \n                         O O                  \n                        O   O                        \n                       O     O                            \n                      O       O                      \n                     O         O                       \n                    O           O                     \n                   O             O               \n                  O               O                                                             \n                 O                 O          \n                O                   O       \n               O                     O         \n              O                       O         \n             O                         O\n            OOOOOOOOOOOOOOOOOOOOOOOOOOOO                               \n           O  O                      O  O                             \n          O    O                    O    O                    \n         O      O                  O      O                        \n        O        O                O        O                         \n       O          O              O          O               \n      O            O            O            O              \n     O              O          O              O     \n    O                O        O                O                     \n   O                  O      O                  O                                    \n  O                    O    O                    O                                               \n O                      O  O                      O                          \nO                        OO                        O \nOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  SKILLS! IT TOOK 20 MINUTES TOO MAKE",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "person"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "devil"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "trevor"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "f63f6e93e805020b",
+        "Comment": ":::::  Do you think it is only topfree women who gets their photos taken?  There are lots of websites that capture photos of women just walking down the street, fully clothed in a bikini or shorts/shirt, and publish those photos online.  The problem here is NOT how the woman is dressed - the problem is the man holding the camera who drools at the mere sight of a woman (even one fully clothed).  Don't punish a woman for a cameraman's stupid actions.  -",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "stupid"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stupid"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5c4553b1d666656f",
+        "Comment": "Dear Editors: Your actions are a disgrace. Read his trancscprits he's all but wearing jackboots and screaming SIEG HEIL!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "Editors"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "SIEG HEIL"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Editors"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "disgrace"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "jackboots"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "SIEG HEIL"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "4b5b33dc09f9eb38",
+        "Comment": "dont delete it self hating jewish freak \n\nlisten you are self hating jewish freak wikipedia is a place to writing facts and not a stupid opinions if any one will delete it i ask it from neutral persons ok. this is not the place to express your opinions if you want there is forums not this place. you psychopaths even came until here? how low can you down?",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "stupid"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "freak"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "jewish"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "psychopaths"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "self hating"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "self hating jewish freak"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "freak"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "stupid"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "psychopaths"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "low"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "0a5091870036f86b",
+        "Comment": "I'm gonna revert because I found all that information on Jason on a legitimate source (the show). The actor I just Googled and the IMDB gave me his name. If anyone has a problem, please tell me before you change it again.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "1697a40ddca79d6d",
+        "Comment": "\"\n\nI'm glad that you removed the statement \"\"Are we here to write an encyclopedia, or are we here to fuck around as a charity case while we fawn all over each other? Apparently, charity case. Nope, we're not an encyclopedia anymore.\"\", from your talk page.  I'd hate to see your \"\"name slung through the mud for it\"\".  Cheers!  \"",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "fuck"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "fuck"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "mud"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "e899393ca776f6a9",
+        "Comment": "u suck and u r smart myp is awome",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "suck"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "suck"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "79c57174b8937598",
+        "Comment": "Why do you keep crying (bitching) about every revert? 188.81.115.107",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "crying (bitching)"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "bitching"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "506669ddadb94479",
+        "Comment": "PENIS PENIS PENIS PENIS!!!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "PENIS"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "PENIS"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "aa898e7bc9a726b0",
+        "Comment": "WTF are you on about??  Babyboomer?  Never seen the page and judging by the comments from others here you are a serial pest.  Sod off and annoy someone else...",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "More_targets_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "someone"
+            },
+            {
+                "Tag": "Target_Other",
+                "Token": "comments"
+            },
+            {
+                "Tag": "Target_Other",
+                "Token": "others"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Sod off"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "WTF"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Babyboomer"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "serial pest"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "WTF"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "800434b038ffc3e3",
+        "Comment": "O I found another article, and tweaked that part, expanded the lede, and added a summation of her 600,000 miles. It's published. Feel free to make any changes you think will make it more accurate or better.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "fa13375b1c42139b",
+        "Comment": "What a terrible conduct has SqueakBox \n\nHe is fighting with all people.  He needs a Physician in Psychiatry.  He used to be whole time in computer.  He needs work. He has a dog and a cat.  What a disordered brain. Probably he has a personality disorder and a obsessive compulsive disorder. He needs to be more time with his family.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "personality disorder"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "obsessive compulsive disorder."
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "disordered brain"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "SqueakBox"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "terrible"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "disordered"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "d685bfed24626659",
+        "Comment": "Homophobia \n\nShouldn't there be a section about him being the butt of homophobic jokes because of his dress sense and high-pitched voice",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "him"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "butt"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "homophobic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "5966304e66dc9cf0",
+        "Comment": "Hey \n\nWhat is the deal? How about you show some respect. You piece of shit. I will break you knees if you try any more funny business you queer.",
+        "Label": 1,
+        "insult_new": 0,
+        "hate_new": 1,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "piece of shit"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "queer"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "piece of shit"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "queer"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "054b37be76678daa",
+        "Comment": "I'm sorry that I must say this. I have never come across a more idiotic editor on Wikipedia. Congratulations on making it to the top of my list. I mean that in a congratulatory sense entirely; in no way is it meant to offend or sound sarcastic. I wouldn't call you an editor though. You're more of a pollutant to this project and one with extreme perversion of perception. Please reread the discussion at the talk page. Based on what you last posted there it is painfully obvious that you ignored, or did not comprehend, much of what I tried explaining to you multiple times at that talk page.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You're"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiotic"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "extreme perversion of perception"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "pollutant"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "editor"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Wikipedia"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b9848e0612f7db07",
+        "Comment": "taysia \n\ntaysia- a word meaning beautiful, creative, and the best friend in the world. juss another reason for somone to go to school juss to see her. if anyone doesnt like her most likely theyre either mental or jus idiotic, or maybe her inner and outer beauty is too much for them to grasp.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "More_targets_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "anyone"
+            },
+            {
+                "Tag": "Target_Group",
+                "Token": "theyre"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiotic"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "taysia"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "mental"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "idiotic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "fcba1fca56fc3cf9",
+        "Comment": "NawlinWiki, that is disgusting.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Group",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "that"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "NawlinWiki"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "disgusting"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "17a5643beeb33d57",
+        "Comment": "please \n\ncome with me cause i like eat dicks with other girls",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "girls"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dicks"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dicks"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "819318de40dba1ed",
+        "Comment": "Please I am trying to tell you something \n\nYou blocked me forever from all Wikia and deleted my usernames and talk pages. I am not trying to spam nor threaten nor harm anything. I only wanted to talk to Dantman. Assaulthead is not the criminal and he only wants to talk to Dantman.( )",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Assaulthead"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "87023ce77d35df0a",
+        "Comment": "GO GET A IFE DICK SHOW",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "GO"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "GO GET IFE DICK SHOW"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "DICK"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "0b4f1f17f9636f72",
+        "Comment": "Hipocrite You reverted the references I needed, after I put a polite not here. The section is as near NPOV, when I've finished it as WE can get here. It has taken into account ALL recent chat traffic, including the ani-Masonic stuff. You have a very high hadded use of your power, proved QED, but have added nothing constructive. How about reporting yourself?",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "You"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "4d61899eaa860cce",
+        "Comment": "WHAT!!!!!!!!?!?!!?!?!!?!?!?!?!!!!!!!!!!!!!!!!!!!!!!!!??????????????????????????????????????????????????????!!!!!!=\nWHER IS YOUR SEXY PIC GONE FROM YOUR MAIN PAGE???????? put it back",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "SEXY PIC"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "WHAT!!!!!!!!?!?!!?!?!!?!?!?!?!!!!!!!!!!!!!!!!!!!!!!!!??????????????????????????????????????????????????????!!!!!!="
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "YOUR SEXY PIC"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6e10daff3ed3317d",
+        "Comment": "== Putting photos reg: == \n\n A Roman Catholic Fanatic Idiot is trying to add Alphonsa and Chavara to this page. Please think what is their eligibility to be included in this page. Please include those guys in the church portal. Those who are shown here are outstanding persons in their field. WHAT IS THE ELIGIBILITY OF ALPHONA AND CHAVARA?.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "A Roman Catholic Fanatic"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "Idiot"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "Roman Catholic"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Idiot"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "e1284fa3a81fe6fa",
+        "Comment": "== A == \n\n you wanna hear something about copley theres this kid that goes there and he has sex with chickens",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Other",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "copley"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "sex with chickens"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "88e1d622711ff2eb",
+        "Comment": "Another example of Schumin being a dick.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "Schumin"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dick"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Schumin"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dick"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "14a6450713c5a090",
+        "Comment": "How primitive are you\nAre you from a nursery school? Do you try to betray at tiptoety? Childish primitive attempts...",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Individual",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "primitive"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "betray"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "childish"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "b91b4e18171db54a",
+        "Comment": "It was an old convo \n\nThat conversation is pretty old and I apologized to her, so quit trying to look good by criticizing me thinking you will get laid or something as women are going to think you're such an honorable man. Women like to be dominated",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Group",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "Women"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "quit"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "her"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Target_Group",
+                    "Token": "women"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "2255cc9e8c02f9e2",
+        "Comment": "Vandalism \nYo broseph i vandalized USRTOK page CAUSE HE IS MY FRIEND AND I HAVE HIS PERMISSION SO SUCK A MEAT.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "broseph"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "SUCK A MEAT"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "suck"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "87d1eefc552730d3",
+        "Comment": "go suk a set of malaysian hairy monkey balls",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "No_target_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "suk"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "hairy"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "balls"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "monkey"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "suk"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "malaysian hairy monkey balls"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "3c27f46bc2d864cf",
+        "Comment": "Hey\nHow are things going here? I was supposed to be on Wikiquote but i ended up here   \n\n Feelin Horny \n\nHi, I am a 21 year old shemale from bangladesh in Toronto looking for hot guy.girl anal action. Please email me at cumswallow@hotmail.com\nI charge $21 dollars an hour.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "anal"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "Horny"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "shemale"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "anal"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "cumswallow"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "charge"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "0dc5c4251f16481d",
+        "Comment": "== Hello, you freak == \n\n Stop censoring pages, totalitarian hermaphrodite.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "freak"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "freak"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "totalitarian hermaphrodite"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "59a7cdcc206de90c",
+        "Comment": "{{unblock|Hello, I am writing this to request that you duly unblock my IP address from editing wikipedia.  Unfortunately, I am stuck in a class room full of imbeciles, preventing me from editing pages for the benefit of my fellow wikipedians.  Please, do not punish me for the cretinism of my peers and undue this great injustice.  Vive la resistance!",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Group_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Group",
+                "Token": "peers"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "imbeciles"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 1,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "779a6e798c4d3285",
+        "Comment": "Who the hell u are to threat me to block! Its a public forum. And everybody has a right to contribute here.Data which I provide have sufficient information.I don't provide politically biased  information like you.And don't try to overwrite my writing. \n\n Regards! \n Aamadmiofworld",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "hell"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "hell"
+                },
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "672db987fe49c43b",
+        "Comment": "Hi, I wrote in my edit summary WP:BRD-alert, meaning it was a drastic edit, and you have every right to revert it. When I have time I will come and discuss and perhaps defend it in part at least. In any case, it is mostly up to you to decide, but clearly one has to sometimes make drastic edits otherwise there is nothing to compare to.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "de2ffc41fd71d1c3",
+        "Comment": "Nice job inserting your left-wing garbage in Jan Brewers article. I removed it and if you vandalize the article again you will be blocked from editing on Wikipedia.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "your"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "garbage"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "vandalize"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "Jan Brewer"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "garbage"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "470dce6ce53ec2f0",
+        "Comment": ": How idiotic.  What source do you expect to get?  The makers are not going to come out and say it, but it's a pretty obvious analogy - watch the first scene of At World's End again.  Pirates = terrorists.  Habeus corpus = habeus corpus.  It's not rocket science. Caleby",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "idiotic"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "idiotic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "00d3146434628f0b",
+        "Comment": "The Rock Vs Cena \n\nThe match was agreed upon for less than 365 days from when the next Wrestlemania would take place; this marks it as less than year. Please unlock the article so the lie can be fixed.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "5b03bac3ca80e276",
+        "Comment": "\"\n\nYou have GOT to be kidding me. Someone shares my IP address that I was editing from that created that account. This is injustice. I guess this is my punishment for not trying to stop him, though. Oh well. I'm hoping to return to editing after this two-week block. Triple M \"",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "c58e51de045b534b",
+        "Comment": "No point. I'm converted. He was a vile fascist. What is your objection?",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Not_Toxic_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Vulgarity",
+                "Token": "vile"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "vile fascist"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "6d871c878d12db7a",
+        "Comment": "UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON! \n UNBLOCK SHANNON!",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "SHANNON"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "UNBLOCK"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "9b3e24f741b733a4",
+        "Comment": "pick a better replacement title, also what do you care if I respond to a smart ass troll joke with another smart troll joke? \n\nremove both smart ass jokes if you have an issue?",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "More_targets",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "jokes"
+            },
+            {
+                "Tag": "Target_Individual",
+                "Token": "you "
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    },
+    {
+        "Index": "3bc1309ba21d8c0d",
+        "Comment": "Featured article?? \nAbsolutely pathetic that this is the best we can choose as a featured article. We were doing so well, until yet another video game article comes along. The nerds really are in control of this site, and this is exactly why I don't contribute to Wikipedia anymore.",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Target_Other",
+        "Tags": [
+            {
+                "Tag": "Target_Other",
+                "Token": "Wikipedia"
+            }
+        ],
+        "toxic": 1,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Group",
+                    "Token": "nerds"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "pathetic"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "a297954a2104a90a",
+        "Comment": "So i've been blocked. Just goes to show how silly you are! I've only ever used this page onBold textce, and that was in Jan 2007. Hahahahaha couldn't use even if i wanted to coz i forgot the password. That's why it wasn't used for so long. U dimwit! lol",
+        "Label": 1,
+        "insult_new": 1,
+        "hate_new": 0,
+        "vulgar_new": 1,
+        "Label_fine": "Target_Individual_Vulgar",
+        "Tags": [
+            {
+                "Tag": "Target_Individual",
+                "Token": "you"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "dimwit"
+            },
+            {
+                "Tag": "Vulgarity",
+                "Token": "silly"
+            }
+        ],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 1,
+            "Tags": [
+                {
+                    "Tag": "Target_Individual",
+                    "Token": "you"
+                },
+                {
+                    "Tag": "Vulgarity",
+                    "Token": "dimwit"
+                }
+            ]
+        }
+    },
+    {
+        "Index": "ca3ae518dbb35b40",
+        "Comment": "In Wikipedia articles about publishers/journals that are alleged predatory, we should rely only in allegations published in peer-reviewed literature (Beall authored several of such articles, check google scholar). Expert-authored blogs should be cited with discretion (WP:SELFPUBLISH). Even one false accusation would be too many, and who knows how many border cases exist  I wish it was all black-and-white, predatory or not.",
+        "Label": 0,
+        "insult_new": 0,
+        "hate_new": 0,
+        "vulgar_new": 0,
+        "Label_fine": "Not_Toxic",
+        "Tags": [],
+        "toxic": 0,
+        "severe_toxic": 0,
+        "obscene": 0,
+        "threat": 0,
+        "insult": 0,
+        "identity_hate": 0,
+        "prediction": {
+            "Label": 0,
+            "Tags": []
+        }
+    }
+]

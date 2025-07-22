@@ -1,0 +1,24 @@
+{
+    "accuracy": 0.5197368421052632,
+    "precision_binary": 0.4489795918367347,
+    "recall_binary": 0.8369565217391305,
+    "f1_binary": 0.5844402277039848,
+    "micro_precision": 0.5197368421052632,
+    "micro_recall": 0.5197368421052632,
+    "micro_f1": 0.5197368421052632,
+    "macro_precision": 0.591746433086509,
+    "macro_recall": 0.5710517902813299,
+    "macro_f1": 0.507804529436408,
+    "true_positives": 154,
+    "false_positives": 189,
+    "true_negatives": 83,
+    "false_negatives": 30,
+    "distinct_true_labels": [
+        0,
+        1
+    ],
+    "distinct_pred_labels": [
+        0,
+        1
+    ]
+}
